@@ -3,7 +3,7 @@
 # Based on Ubuntu
 ############################################################
 
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190515
 MAINTAINER Maintainer Gallopsled et al.
 
 RUN apt-get update
